@@ -59,10 +59,60 @@ Xi Cheng, **Haoran Wang**, Li Tang, Weiyan Jiang, Maotian Zhou, Guoyan Wang
 
 [**Project**](https://github.com/william-hrwang/NC-PO-OpenPeerReview) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> | SCI Journal Paper </strong>
 
-- Academic Impact: Builde a large extensive dataset about Open Peer Review, Altmetrics and Citations, leading to future study in Bibliometrics field
-- 
+- Build a large extensive dataset about Open Peer Review, Altmetrics and Citations, leading to a future study in Bibliometrics field
+- Utilize big data analysis to demonstrate that open peer review increases public and media visibility of scientific work, despite not significantly impacting citation-based academic recognition.
+
 </div>
 </div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">NECEC 2023</div>
+<img src='images/light-field.png' alt="light field" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+Improved Simulated Viewing of Holographic Imagery
+
+Nicholas Wells, Devender Singh, **Haoran Wang**, Amilcar Soare, Matthew Hamilton, Oscar Meruvia-Pastor
+
+<strong> IEEE Conference | Mitacs Globalink Research Internship</strong>
+
+- Employ CUDA parallel computing to integrate a Gaussian Blur-based model into a light field display simulation, enhancing its ability to accurately replicate the light leakage phenomenon in physical 3D display.
+- Develop and implement a standardized testing procedure to enhance the efficiency and repeatability of assessments for light field images and compression designs.
+- Enhance the graphical user interface (GUI) by implementing Dear ImGui in C++
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Risk Management and Healthcare Policy</div>
+<img src='images/health.jpg' alt="light field" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Study of COVID-19 Scientific Research Under the Parallel Model](https://www.dovepress.com/rapid-response-in-an-uncertain-environment-study-of-covid-19-scientifi-peer-reviewed-fulltext-article-RMHP)
+
+Xi Cheng, Qiyuan Chen, Li Tang, Yue Wu, **Haoran Wang**, Guoyan Wang
+
+<strong> SSCI Journal</strong>
+
+- Take an active role in the acquisition, curation, and meticulous pre-processing of research datasets from  Web of Science and PubMed, ensuring data accuracy and comprehensiveness
+- Utilize advanced analytical tools like VosViewer to conduct in-depth knowledge graph analysis, demonstrating the existence of a parallel model of COVID-19 scientific research.
+
+
+</div>
+</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -77,12 +127,18 @@ Xi Cheng, **Haoran Wang**, Li Tang, Weiyan Jiang, Maotian Zhou, Guoyan Wang
 
 
 # 📖 Educations
-- *2024.09 - 2025.12 (Expected)*, Western University, Master of Computer Science
-- *2020.09 - 2024.07*, Soochow University, Bachelor of Art in Network and New Media; Minor Degree in Software Engineering; Micro-Major Project in Intelligent Computing and Frontier Applications
+- *2024.09 - 2025.12 (Expected)*, Western University
+  - Master of Computer Science (Score: **92.5**/100)
+- *2020.09 - 2024.07*, Soochow University
+  - Bachelor of Art in Network and New Media (GPA: **3.9**/4.0, Ranking: 1/92) 
+  - Minor Degree in Software Engineering
+  - Micro-Major Project in Intelligent Computing and Frontier Applications
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2024.02*, [Suzhou Research Institute of National University of Singapore](http://en.nusri.cn/), China.
+- *2023.09 - 2024.02*, [BOSCH](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-suzhou/), China.
+- *2022.07 - 2022.08*, [Bank of Communications](https://www.bankcomm.com/BankCommSite/shtml/jyjr/en/2600212/list.shtml?channelId=2600212), China.
