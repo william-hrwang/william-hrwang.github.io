@@ -28,7 +28,7 @@ In 2023, I was honored to be selected for the [Mitacs Globalink Research Interns
 
 From 2022 to 2023, I collaborated with Associate Professor [Xi Cheng](https://www.researchgate.net/profile/Xi_Cheng65) at Soochow University to explore the impact of Open Peer Review on Citations and Altmetrics. I utilized Python web scraping to collect extensive data from Nature Communications and PLoS One, employed an LM Linear Regression model in R to analyze the correlation between citation counts and time.
 
-You can find my detailed CV here: **William's Curriculum Viate**. If you are interested in my work, please feel free to drop me an email. 
+You can find my detailed CV here: [**William's Curriculum Viate**](https://william-hrwang.github.io/william-wang.github.io/_pages/CV.pdf). If you are interested in my work, please feel free to drop me an email. 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -76,7 +76,7 @@ Xi Cheng, **Haoran Wang**, Li Tang, Weiyan Jiang, Maotian Zhou, Guoyan Wang
 
 <div class='paper-box-text' markdown="1">
 
-Improved Simulated Viewing of Holographic Imagery
+[Improved Simulated Viewing of Holographic Imagery](https://william-hrwang.github.io/william-wang.github.io/_pages/NECEC.pdf)
 
 Nicholas Wells, Devender Singh, **Haoran Wang**, Amilcar Soare, Matthew Hamilton, Oscar Meruvia-Pastor
 
