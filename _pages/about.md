@@ -127,7 +127,7 @@ Xi Cheng, Qiyuan Chen, Li Tang, Yue Wu, **Haoran Wang**, Guoyan Wang
 
 
 # 📖 Educations
-- *2024.09 - 2025.12 (Expected)*, Western University
+- *2024.09 - 2025.8 (Expected)*, Western University
   - Master of Computer Science (Score: **92.5**/100)
 - *2020.09 - 2024.07*, Soochow University
   - Bachelor of Art in Network and New Media (GPA: **3.9**/4.0, Ranking: 1/92) 
