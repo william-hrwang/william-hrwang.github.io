@@ -18,7 +18,7 @@ redirect_from:
 
 # Welcome!
 
-I am a Master’s student in the Computer Science Department at Western University. My research interest includes **Human-Computer Interaction** and **Health Informatics**. My work explores the intersection of computer science, data analytics, and AI applications, utlizing interdisciplinary approaches to enhance user experiences and healthcare outcomes. I am particularly interested in developing innovative solutions that bridge technology and human well-being. I am passionate about using emerging technologies to solve complex real-world challenges while ensuring solutions remain accessible and user-friendly.
+I am a Master’s student in the Computer Science Department at Western University. My research interest includes **Human-Computer Interaction**, **Multi-modal Machine Learning**, **Social Computing** and **Health Informatics**. My work explores the intersection of computer science, data analytics, and AI applications, utlizing interdisciplinary approaches to enhance user experiences and healthcare outcomes. I am particularly interested in developing innovative solutions that bridge technology and human well-being. I am passionate about using emerging technologies to solve complex real-world challenges while ensuring solutions remain accessible and user-friendly.
 
 In 2024, I worked as an AI4Education Research Assistant at the [Suzhou Research Institute of National University of Singapore](http://en.nusri.cn/). My research centered on leveraging AI to enhance educational outcomes, specifically in coding education and assessment. 
 
@@ -28,7 +28,7 @@ In 2023, I was honored to be selected for the [Mitacs Globalink Research Interns
 
 From 2022 to 2023, I collaborated with Associate Professor [Xi Cheng](https://www.researchgate.net/profile/Xi_Cheng65) at Soochow University to explore the impact of Open Peer Review on Citations and Altmetrics. I utilized Python web scraping to collect extensive data from Nature Communications and PLoS One, employed an LM Linear Regression model in R to analyze the correlation between citation counts and time.
 
-You can find my detailed CV here: [**William's Curriculum Viate**](https://william-hrwang.github.io/william-wang.github.io/_pages/CV.pdf). If you are interested in my work, please feel free to drop me an email. 
+You can find my detailed CV here: [**William's Curriculum Viate**](https://william-hrwang.github.io/_pages/CV.pdf). If you are interested in my work, please feel free to drop me an email. 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -76,7 +76,7 @@ Xi Cheng, **Haoran Wang**, Li Tang, Weiyan Jiang, Maotian Zhou, Guoyan Wang
 
 <div class='paper-box-text' markdown="1">
 
-[Improved Simulated Viewing of Holographic Imagery](https://william-hrwang.github.io/william-wang.github.io/_pages/NECEC.pdf)
+[Improved Simulated Viewing of Holographic Imagery](https://william-hrwang.github.io/_pages/NECEC.pdf)
 
 Nicholas Wells, Devender Singh, **Haoran Wang**, Amilcar Soare, Matthew Hamilton, Oscar Meruvia-Pastor
 
