@@ -18,7 +18,7 @@ redirect_from:
 
 # Welcome!
 
-I am a Master’s student in the Computer Science Department at Western University. My research interest includes **Human-Computer Interaction**, **Multi-modal Machine Learning**, **Social Computing** and **Health Informatics**. My work explores the intersection of computer science, data analytics, and AI applications, utlizing interdisciplinary approaches to enhance user experiences and healthcare outcomes. I am particularly interested in developing innovative solutions that bridge technology and human well-being. I am passionate about using emerging technologies to solve complex real-world challenges while ensuring solutions remain accessible and user-friendly.
+I am a Master’s student in the Computer Science Department at Western University. My research interest includes **Multi-modal Machine Learning**, **Human Centered Computing**, **Social Computing** and **Health Informatics**. My work explores the intersection of computer science, data analytics, and AI applications, utlizing interdisciplinary approaches to enhance user experiences and healthcare outcomes. I am particularly interested in developing innovative solutions that bridge technology and human well-being. I am passionate about using emerging technologies to solve complex real-world challenges while ensuring solutions remain accessible and user-friendly.
 
 In 2024, I worked as an AI4Education Research Assistant at the [Suzhou Research Institute of National University of Singapore](http://en.nusri.cn/). My research centered on leveraging AI to enhance educational outcomes, specifically in coding education and assessment. 
 
