@@ -22,7 +22,7 @@ I am a Master’s student in the Computer Science Department at Western Universi
 
 In 2024, I worked as an AI4Education Research Assistant at the [Suzhou Research Institute of National University of Singapore](http://en.nusri.cn/). My research centered on leveraging AI to enhance educational outcomes, specifically in coding education and assessment. 
 
-From 2023 to 2024, I served as an Undergraduate Research Assistant at Soochow University, contributing to Fake News Detection through Multi-modal Similarity under the guidance of Assistant Professor [Guobiao Zhang](https://scholar.google.com/citations?hl=en&user=9063vvMAAAAJ). I helped develop a joint multimodal entity-relation extraction method, enhanced a BERT-based scene classification model for event validation.
+From 2023 to 2024, I served as an Undergraduate Research Assistant at Soochow University, contributing to multimodal fake news detection via fine-grained semantic consistency [Guobiao Zhang](https://scholar.google.com/citations?hl=en&user=9063vvMAAAAJ). I helped designed and implemented a detection model integrating BERT for text representation, Faster R-CNN with an attention mechanism for extracting fine-grained visual features, and CLIP for global image-text alignment.
 
 In 2023, I was honored to be selected for the [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), where I collaborated with Assistant Professor [Matthew Hamilton](https://scholar.google.com/citations?user=PWi6hlkAAAAJ&hl=en) in Memorial University of Newfoundland. My work focused on the Light Field project and enhanced holographic imagery simulation using CUDA parallel computing, showcasing my technical expertise and innovative problem-solving skills.
 
